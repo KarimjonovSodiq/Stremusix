@@ -1,3 +1,5 @@
+python
+pip
 pyrogram
 tgcrypto
 py-tgcalls
